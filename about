@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <tag> About me </tag>
+    </head>
+    <body>
+       <h1>My name is Michelle and I like dinosaurs</h1>
+       <hr>
+
+     
+    <img src="/Users/m.m.vanoorschot/Desktop/Winc Academy/Winc_Academy/images/dinosaur2.jpeg">
+
+    <a href="file:///Users/m.m.vanoorschot/Desktop/Winc%20Academy/Winc_Academy/opdracht_eerste_HTML_pagina/link_image_list2.html" target="_blank">Back</a>
+    </body>
+</html>
